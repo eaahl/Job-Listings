@@ -42,12 +42,9 @@ This platform aims to address youth unemployment in Ghana by providing:
 ghana-youth-jobs/ <br>
 ├── index.html              # Homepage                                  <br>
 ├── jobs.html               # Job listings page                         <br>
-├── job-detail.html         # Single job detail page                    <br>
 ├── cv-builder.html         # CV builder tool                           <br>
 ├── resources.html          # Career tips and training resources        <br>
 ├── about.html              # About page with success stories           <br>
-├── css/                                                                <br>
-│   └── styles.css          # Main stylesheet                           <br>
 └── README.md
 # 🚀 Future Enhancements
 
